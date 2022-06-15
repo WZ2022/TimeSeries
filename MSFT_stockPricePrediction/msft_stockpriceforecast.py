@@ -41,7 +41,7 @@ drive = GoogleDrive(gauth)
 
 """Data could be downloaded from Yahoo.com"""
 
-link = 'https://drive.google.com/open?id=1wdf3FfKdR_xNh2rJeYWL4ye0_FUZ9WM7'
+link = 'https://drive.google.com/open?id='
 
 
 fluff, id = link.split('=')
